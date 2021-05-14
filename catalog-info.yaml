@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Test
-  description: Test
+  name: Demo-Kubernetes-App
+  description: Demo-Kubernetes-App
   annotations: 
     github.com/project-slug: iamgrewal7/back-kuber
     backstage.io/source-ref: "https://github.com/iamgrewal7/back-kuber"
