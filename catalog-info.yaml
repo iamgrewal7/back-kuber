@@ -12,5 +12,7 @@ metadata:
     backstage.io/kubernetes-label-selector: "app=back-kuber"
 spec:
   type: service
-  lifecycle: experimental
+  lifecycle: development
   owner: harman
+  providesApis:
+    - spotify
