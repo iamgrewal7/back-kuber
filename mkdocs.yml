@@ -1,7 +1,7 @@
 
 site_name: "Test"
 site_description: "Test"
-docs_dir: '.'
+
 
 nav:
   - Readme: README.md
