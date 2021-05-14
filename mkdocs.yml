@@ -3,7 +3,7 @@ site_name: "Test"
 site_description: "Test"
 
 nav:
-  - Introduction: index.md
+  - Readme: README.md
 
 plugins:
   - techdocs-core
