@@ -1,6 +1,5 @@
-# Test
-
-Test
+# Demo App
+Demo app deployed in kubernetes cluster
 
 ## Getting started
 
