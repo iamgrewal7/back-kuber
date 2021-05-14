@@ -9,6 +9,7 @@ metadata:
     backstage.io/techdocs-ref: url:https://github.com/iamgrewal7/back-kuber
     backstage.io/github-actions-id: https://github.com/iamgrewal7/back-kuber
     backstage.io/kubernetes-id: back-kuber
+    backstage.io/kubernetes-label-selector: "app=back-kuber"
 spec:
   type: service
   lifecycle: experimental
