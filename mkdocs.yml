@@ -4,7 +4,7 @@ site_description: "Test"
 
 
 nav:
-  - Readme: README.md
+  - Home: index.md
 
 plugins:
   - techdocs-core
