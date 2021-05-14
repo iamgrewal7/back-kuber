@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Test
+  description: Test
+  annotations: 
+    github.com/project-slug: iamgrewal7/back-kuber
+    backstage.io/source-ref: "https://github.com/iamgrewal7/back-kuber"
+    backstage.io/techdocs-ref: url:https://github.com/iamgrewal7/back-kuber
+    backstage.io/github-actions-id: https://github.com/iamgrewal7/back-kuber
+spec:
+  type: service
+  lifecycle: experimental
+  owner: harman
